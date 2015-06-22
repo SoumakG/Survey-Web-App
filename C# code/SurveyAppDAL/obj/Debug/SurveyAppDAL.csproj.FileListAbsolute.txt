@@ -1,0 +1,14 @@
+D:\Workspace\SurveyPractice\SurveyApp1inASPX\SurveyAppDAL\bin\Debug\SurveyAppDAL.dll
+D:\Workspace\SurveyPractice\SurveyApp1inASPX\SurveyAppDAL\bin\Debug\SurveyAppDAL.pdb
+D:\Workspace\SurveyPractice\SurveyApp1inASPX\SurveyAppDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Workspace\SurveyPractice\SurveyApp1inASPX\SurveyAppDAL\obj\Debug\SurveyAppDAL.dll
+D:\Workspace\SurveyPractice\SurveyApp1inASPX\SurveyAppDAL\obj\Debug\SurveyAppDAL.pdb
+D:\Workspace\SurveyPractice\SurveyApp1inASPX\SurveyAppDAL\bin\Debug\SurveyAppBE.dll
+D:\Workspace\SurveyPractice\SurveyApp1inASPX\SurveyAppDAL\bin\Debug\SurveyAppBE.pdb
+C:\Users\soumak\Desktop\SurveyApp1inASPX\SurveyAppDAL\bin\Debug\SurveyAppDAL.dll
+C:\Users\soumak\Desktop\SurveyApp1inASPX\SurveyAppDAL\bin\Debug\SurveyAppDAL.pdb
+C:\Users\soumak\Desktop\SurveyApp1inASPX\SurveyAppDAL\bin\Debug\SurveyAppBE.dll
+C:\Users\soumak\Desktop\SurveyApp1inASPX\SurveyAppDAL\bin\Debug\SurveyAppBE.pdb
+C:\Users\soumak\Desktop\SurveyApp1inASPX\SurveyAppDAL\obj\Debug\SurveyAppDAL.csprojResolveAssemblyReference.cache
+C:\Users\soumak\Desktop\SurveyApp1inASPX\SurveyAppDAL\obj\Debug\SurveyAppDAL.dll
+C:\Users\soumak\Desktop\SurveyApp1inASPX\SurveyAppDAL\obj\Debug\SurveyAppDAL.pdb
